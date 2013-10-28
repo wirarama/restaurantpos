@@ -1,0 +1,9 @@
+/* Overlay */
+#confirmModalOverlay {background-color:#eee; cursor:wait;}
+/* Container */
+#confirmModalContainer {height:90px; width:300px; font-family:, Arial,Helvetica,sans-serif; font-size:16px; text-align:left; background:#fff; border:2px solid #a2d9ff;}
+#confirmModalContainer .header {height:30px; width:100%; color:#fff; font-size:1.1em; font-weight:bold; line-height:30px;}
+#confirmModalContainer .header span {padding-left:8px;}
+#confirmModalContainer .message {color:#333; text-align:center; margin:0; padding:12px 4px; font-size:1em;}
+#confirmModalContainer .buttons {width:300px; float:right; padding:10px 8px 0;} 
+#confirmModalContainer .buttons div {float:right; margin-left:8px; width:70px; height:20px; color:#666; font-weight:bold; text-align:center; border:1px solid #bbb; cursor:pointer; background:#a2d9ff;}

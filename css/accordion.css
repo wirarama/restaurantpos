@@ -1,0 +1,23 @@
+	/* Accordion Style */
+	.accordion  {
+		border: 1px solid #999;
+		text-align: right;
+	}
+	.accordion div {
+		padding:5px;
+	}
+	.accordion a {
+		cursor:pointer;
+		display:block;
+		padding:5px;
+		margin-top: 0;
+		text-decoration: none;
+		background-color: #bcd769;
+	}
+	.accordion a:hover {
+		background-color: #a2c33e;
+	}
+	.accordion a.selected {
+		color: black;
+		background-color: #819a36;
+	}
